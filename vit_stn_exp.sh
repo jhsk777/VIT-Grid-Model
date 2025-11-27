@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python src/evaluation_vit.py --input_dim 13 --output_dim 12 --prev_len 12 --model_name VIT_model_12hr_12hr 
